@@ -2,7 +2,9 @@
 
 This is an XR88C681-based serial interface card designed for the RC2014 microcomputer system. This provides two serial interfaces to an RC2014 system in addition to a 16-bit counter/timer and several general-purpose input and output lines.
 
-This is currently untested. It should be software-compatible with the [XR88C681 board designed by Tadeusz Pycio](https://groups.google.com/forum/#!topic/retro-comp/5gGqL3yGzyA) and the [SCM](https://smallcomputercentral.wordpress.com/small-computer-monitor/small-computer-monitor-v1-0/) driver written for it by Colin MacArthur.
+![populated board](board.jpg)
+
+The board has undergone limited testing with the [SCM](https://smallcomputercentral.wordpress.com/small-computer-monitor/small-computer-monitor-v1-0/) driver written by Colin MacArthur for Tadeusz Pycio's [XR88C681 board](https://groups.google.com/forum/#!topic/retro-comp/5gGqL3yGzyA) (and it should be fully software compatible with it).
 
 ## Build Notes
 
