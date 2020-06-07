@@ -6,6 +6,8 @@ This is an XR88C681-based serial interface card designed for the RC2014 microcom
 
 The board has undergone limited testing with the [SCM](https://smallcomputercentral.wordpress.com/small-computer-monitor/small-computer-monitor-v1-0/) driver written by Colin MacArthur for Tadeusz Pycio's [XR88C681 board](https://groups.google.com/forum/#!topic/retro-comp/5gGqL3yGzyA) (and it should be fully software compatible with it).
 
+A driver has been incorporated into the dev branch of [RomWBW](https://github.com/wwarthen/RomWBW). This is not currently built into the standard RC2014 ROM but is available in the RCZ80_duart configuration.
+
 ## Build Notes
 
 Until this is properly documented, refer to the [schematic](duart.pdf).
